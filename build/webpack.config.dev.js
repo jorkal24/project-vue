@@ -24,7 +24,7 @@ module.exports = merge(base , {
     devServer: {
         contentBase: path.join(root, 'dist'), 
         compress: true,
-        port: 8088,
+        port: 5555,
         open:true,
         hot: true
     }

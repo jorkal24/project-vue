@@ -1,0 +1,1 @@
+export const CHANGE_DEMO = 'CHANGE_DEMO'
